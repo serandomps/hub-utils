@@ -1,0 +1,9 @@
+{
+    "name": "hub-utils",
+    "description": "hub-utils component",
+    "scripts": ["index.js", "permissions.js"],
+    "main": "index.js",
+    "dependencies": {
+        "serandomps/serand": "master"
+    }
+}
